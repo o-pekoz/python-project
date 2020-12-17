@@ -1,0 +1,500 @@
+   85  git checkout
+   86  git checkout betul
+   87  ls
+   88  cd BOSMERhub/
+   89  ls
+   90  touch source_code.cpp readme.rxr
+   91  mv readme.rxr readme.txt
+   92  ls
+   93  ls -al
+   94  git init
+   95  git status
+   96  git add .
+   97  git status
+   98  git commit -m "first web repo files"
+   99  git remote add
+  100  git remote add origin https://github.com/betulkaplan/clarusway_lab.git
+  101  git push -u origin main
+  102  git push -u origin master
+  103  cd
+  104  ls
+  105  cd Desktop
+  106  git config --global color.ui auto
+  107  git config --list
+  108  mkdir git-clarusway
+  109  cd git-clarusway
+  110  mkdir project1
+  111  ls
+  112  ls -a
+  113  ls -al
+  114  cd project1
+  115  ls
+  116  ls -al
+  117  clear
+  118  git init 
+  119  ls -al
+  120  cd .git
+  121  ls -al
+  122  cd ..
+  123  touch readme.txt test.cpp
+  124  şs
+  125  ls
+  126  git status
+  127  git add .
+  128  git status
+  129  git commit -m "This folder includes demo files"
+  130  git
+  131  help git pull
+  132  git pull
+  133  git clone
+  134  git clone https://github.com/GokayG/BOSMER.git --branch betul
+  135  git status
+  136  ls
+  137  cd BOSMER
+  138  ls
+  139  git status
+  140  git add "only for USART"
+  141  git add. "only for USART"
+  142  git add . "only for USART"
+  143  git add . 
+  144  ls
+  145  git satus
+  146  git status
+  147  touch .gitignore
+  148  ls
+  149  cd usart_interrupt/
+  150  cd usart_interrupt
+  151  ls
+  152  ls
+  153  cd Debug
+  154  cd 
+  155  git status
+  156  git config
+  157  git config --global
+  158  ls
+  159  cat readme.txt
+  160  git status
+  161  git commit
+  162  git add
+  163  git add "added some meaningless"
+  164  git add 'haha added'
+  165  git add .
+  166  git status
+  167  git commit 
+  168  git satus
+  169  git status
+  170  git push
+  171  git status
+  172  git pull
+  173  git branch
+  174  git 
+  175  git pull
+  176  git puch
+  177  git push
+  178  git pull
+  179  git branch
+  180  git pull
+  181  ls
+  182  cat readme.txt
+  183  git branch
+  184  git pull
+  185  mkdir firt_classpro
+  186  cd firt_classpro/
+  187  git init
+  188  ls
+  189  ls -a
+  190  branch
+  191  git branch
+  192  git branch --help
+  193  clear
+  194  pwd
+  195  ls
+  196  vim file1.txt
+  197  ls
+  198  cat file1.txt
+  199  git status
+  200  git add file1.txt
+  201  git status
+  202  git rm --cached file1.txt
+  203  git status
+  204  git add file1.txt
+  205  git status
+  206  clear
+  207  git commit -m "first commit of the file"
+  208  git status
+  209  git log
+  210  git status
+  211  git log
+  212  vim file2.txt
+  213  vim file1.txt
+  214  git status
+  215  git add .
+  216  git status
+  217  git commit -m "this is my second commiting"
+  218  git checkout cb38b3
+  219  git status
+  220  git status
+  221  pwd
+  222  git checkout
+  223  git checkout master
+  224  pwd
+  225  ls
+  226  git log
+  227  vim testfile.txt
+  228  git status
+  229  git add .
+  230  git status
+  231  git commit -m "first commit of the test file"
+  232  git status
+  233  vim testfile.txt
+  234  git status
+  235  git commit -m "second commit of the test file"
+  236  git status
+  237  git init
+  238  git status
+  239  git add .
+  240  git status
+  241  git commit -m "Where we left the code with daddy"
+  242  git init
+  243  git status
+  244  git add .
+  245  git status
+  246  git commit -m "before deleting all about KNX practices"
+  247  git status
+  248  git log
+  249  git status
+  250  git add .
+  251  git status
+  252  git commit -m "Betul modified in the morning"
+  253  git status
+  254  git log
+  255  git checkout 2b355
+  256  git status
+  257  git commit -m "virtual olmadan, iki farklı method çalışıyor. ama baselerindekini çalışıtıyor"
+  258  git add .
+  259  git status
+  260  git commit -m "virtual olmadan, iki farklı method çalışıyor. ama baselerindekini çalışıtıyor"
+  261  git log
+  262  git log
+  263  git status
+  264  git add .
+  265  git status
+  266  git commit -m "tüm işlemcilerle uyumlu çalışmayı sağlayacak class yapısı oluşturlmaya başlandı. base classlardan inherin ederek obje ve method kullanım çalışmaları var. geliştrilmeye devam edecek"
+  267  git clone https://github.com/clarusway/clarusway-it-fundamentals-7-20.git
+  268  git status
+  269  git init 
+  270  ls
+  271  git status
+  272  git add .
+  273  git status
+  274  git commit -m "o added"
+  275  git push
+  276  git remote add https://github.com/clarusway/clarusway-it-fundamentals-7-20.git
+  277  git status
+  278  git commit -m "..."
+  279  git add .
+  280  git status
+  281  git commit -m "..."
+  282  git add .
+  283  git commit -m "..."
+  284  git status
+  285  git add .
+  286  git commit -m "..."
+  287  ls
+  288  cd clarusway-it-fundamentals-7-20/
+  289  git status
+  290  git status
+  291  git add .
+  292  git commit -m "..."
+  293  git push
+  294  ls
+  295  git status
+  296  git push
+  297  git log
+  298  git status
+  299  ls
+  300  git log
+  301  git branch
+  302  git checkout master
+  303  git clone https://github.com/TylerCounter/project-xv.git
+  304  git status
+  305  ls
+  306  cd project-wv
+  307  cd project-xv
+  308  git status
+  309  mkdir c7161_betul
+  310  vim c7161_betul
+  311  ls -a
+  312  rmdir c7161_betul
+  313  ls -a
+  314  cat participants.md
+  315  echo "5. C7161-Betul" participants.md
+  316  cat participants.md
+  317  cat participants.md
+  318  vim participants.md
+  319  cat participants.md
+  320  ls
+  321  cd participants
+  322  ls
+  323  vim C7161-Betul.txt
+  324  git push
+  325  cat participants.mdit status
+  326  git status
+  327  git add .
+  328  git status
+  329  git commit -m "My first commit in the project-xv"
+  330  git status
+  331  cd ..
+  332  git status
+  333  git add .
+  334  git status
+  335  git commmit -m "I added my name to the list"
+  336  git commit -m "I added my name to the list"
+  337  git status
+  338  git push
+  339  git branch betul
+  340  git status
+  341  ls
+  342  cd participants
+  343  ls
+  344  vim C7161-Betul.txt
+  345  git status
+  346  git add .
+  347  git commit -m "changes from the branch"
+  348  git status
+  349  git push
+  350  git checkout betul
+  351  ls
+  352  vim C7161-Betul.txt
+  353  git add .
+  354  git commit -m "adding the line from the branch of mine"
+  355  git status
+  356  git push
+  357  git push --set-upstream origin betul
+  358  git pull
+  359  git checkout master
+  360  ls
+  361  cat C7161-Betul.txt
+  362  git pull
+  363  cat C7161-Betul.txt
+  364  git log
+  365  git clonehttps://github.com/clarusway/clarusway-it-fundamentals-7-20.git
+  366  git clone https://github.com/clarusway/clarusway-it-fundamentals-7-20.git
+  367  git status
+  368  ls
+  369  cd clarusway-it-fundamentals-7-20/
+  370  git status
+  371  ls
+  372  cd git
+  373  ls
+  374  cd lab
+  375  ls
+  376  cat git-lab.pdf
+  377  git status
+  378  git status
+  379  git status
+  380  git init
+  381  ls
+  382  git status
+  383  git add .
+  384  git commit -m "copied from clarusway"
+  385  git status
+  386  git push
+  387  git remote add MY_REPO https://github.com/betulkaplan/my_clarusway_repo.git
+  388  git push
+  389  git push MY_REPO
+  390  git push --set-upstream MY_REPO master
+  391  git clone https://github.com/betulkaplan/my_clarusway_repo.git
+  392  git clone https://github.com/betulkaplan/it-fundamentals.git
+  393  git status
+  394  git add .
+  395  git status
+  396  git commit -m "copied all the files"
+  397  git status
+  398  git push
+  399  origin
+  400  git origin
+  401  git remote - v
+  402  git remote -v
+  403  git status
+  404  git status
+  405  git status
+  406  git remote -v
+  407  ll
+  408  ls -a
+  409  ls -al
+  410  git status
+  411  git pull
+  412  git status
+  413  git log
+  414  git status
+  415  git pull
+  416  git status
+  417  git log
+  418  ls
+  419  cd ..
+  420  cd ..
+  421  pwd
+  422  ls
+  423  cd my-github
+  424  ls
+  425  ls
+  426  mv lab3_file lab3_file.txt
+  427  git status
+  428  git add .
+  429  git status
+  430  git commit -m "added an extension to the file"
+  431  git status
+  432  git rm --cached lab1.txt
+  433  git rm --cached lab3_file.txt
+  434  git status
+  435  vim lab3_file.txt
+  436  git status
+  437  git add .
+  438  git commmit -m "for lab"
+  439  git commit -m "for lab"
+  440  git status
+  441  pwd
+  442  cd ..
+  443  cd ..
+  444  git status
+  445  ls
+  446  ls
+  447  touch lab2.txt
+  448  git rm --cached lab3_file.txt
+  449  git status
+  450  git add .
+  451  git status
+  452  git commit -am " commiting again "
+  453  git log
+  454  git log
+  455  git log --oneline
+  456  git checkout dce1203
+  457  git commit --ammend -m "initial commit "
+  458  git commit --amend -m "initial commit "
+  459  git log --oneline
+  460  git checkout master
+  461  git log
+  462  git log --oneline
+  463  git status
+  464  git brnach
+  465  git branch
+  466  git branch -r
+  467  git status
+  468  vim readme.txt
+  469  git status
+  470  git add .
+  471  git status
+  472  git commit -m "Readme file added"
+  473  git status
+  474  git status
+  475  git commit -m "class"
+  476  git add .
+  477  git commit -m "class"
+  478  git push
+  479  git checkout main
+  480  git merge betul
+  481  git push
+  482  git status
+  483  pwd
+  484  cd BOSMER
+  485  cd BOSMER
+  486  ls
+  487  cd class_practices
+  488  ls
+  489  git push
+  490  git init https://github.com/betulkaplan/my_knxRD.git
+  491  git clone https://github.com/betulkaplan/my_knxRD.git
+  492  git remote
+  493  git remote add my_knxRD 
+  494  git remote add my_knxRD https://github.com/betulkaplan/my_knxRD.git
+  495  git init
+  496  git remote add my_knxRD https://github.com/betulkaplan/my_knxRD.git
+  497  git status
+  498  git add .
+  499  git status
+  500  git add .
+  501  mkdir git-lesson
+  502  cd git-lesson
+  503  git clone https://github.com/betulkaplan/python-project.git
+  504  git status
+  505  git init
+  506  git status
+  507  ls
+  508  ls -al
+  509  cd python-project
+  510  git status
+  511  $ touch
+  512  touch hello-world.py
+  513  git status
+  514  git add .
+  515  git status
+  516  git commit -m “created hello-world.py”
+  517  git status
+  518  git commit -m "created hello-world.py"
+  519  git status
+  520  vim hello-world.py
+  521  git status
+  522  git commit -am "updated hello world.py"
+  523  git status
+  524  git log
+  525  git log --pretty=oneline
+  526  git log --oneline
+  527  git push
+  528  pwd
+  529  git log
+  530  git fetch
+  531  git diff main origin/main
+  532  git merge
+  533  ls
+  534  git pull
+  535  git log --oneline
+  536  git checkout 1237
+  537  git log --oneline
+  538  git checkout 1273
+  539  git log --oneline
+  540  git checkout main
+  541  git log
+  542  git branch front-end
+  543  git branch
+  544  git branch -r
+  545  git branch -a
+  546  git checkout front-end
+  547  git log
+  548  ls
+  549  git status
+  550  vim test.txt
+  551  git status
+  552  git commit -am "added first line"
+  553  git status
+  554  vim test.txt
+  555  git commit -am "added second line"
+  556  git status
+  557  git checkout main
+  558  ls
+  559  cat test.txt
+  560  git merge
+  561  git merge front-end
+  562  cat test.txt
+  563  git branch
+  564  git branch back-end
+  565  git checkout back-end
+  566  git log --oneline
+  567  touch test2.txt
+  568  git status
+  569  git add.
+  570  git add .
+  571  git commit -m "created test2.txt"
+  572  git checkout main
+  573  touch test3.txt
+  574  git add .
+  575  git commit -m "created test3.txt"
+  576  git merge beck-end
+  577  git merge back-end
+  578  git push
+  579  git branch -d front-end
+  580  git branch -D back-end
+  581  git branch -a
+  582  git status
+  583  history
+  584  history > history_for_print.txt
